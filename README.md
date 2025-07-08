@@ -7,17 +7,26 @@ Welcome! This repository contains **hands-on Python projects** I've built as par
 
 ## 📦 Projects Completed
 
-Project Name                     |    Description
-<!-- # |----------------------------------------------------------------------------||------------------------------------------------------------------------------- # -->
-| 📸 **Image Metadata Reader**    | Extracts EXIF metadata (camera, date, GPS) from image files using `os` & `datetime` |
-| 🧠 **Keyword Entity Extractor** | Extracts keywords/entities from text based on patterns and string logic         |
-| 📚 **Plagiarism Checker**       | Compares two text files and calculates similarity using basic string matching    |
-| 🧾 **Resume Extractor**         | Extracts name, email, phone, and skills from resumes using regex and file parsing|
-| 📊 **CSV Data Cleaner**         | Loads and cleans CSV data manually without pandas — handles missing/null values  |
+1. 🧹 Project Name: csv_data_cleaner
+📄 Description: Cleans raw CSV data by removing whitespace and skipping rows with empty cells.
+🧰 Modules Used: csv
 
-Each project is inside its own folder with a self-contained `README.md`, source code, and sample files.
+2. 🖼️ Project Name: image_metadata_reader
+📄 Description: Extracts metadata such as file size, format, mode, and dimensions from image files.
+🧰 Modules Used: PIL.Image, os
 
----
+3. 🧠 Project Name: keyword_entity_extractor
+📄 Description: Analyzes a text file to extract top keywords, possible names/organizations, and dates.
+🧰 Modules Used: re, string, collections.Counter, json
+
+4. 📑 Project Name: plagiarism_checker
+📄 Description: Compares two text files for plagiarism using sentence and word similarity analysis.
+🧰 Modules Used: re
+
+5. 🧾 Project Name: resume_extractor
+📄 Description: Extracts name, email, phone number, key skills, and section headers from resume files.
+🧰 Modules Used: re
+
 
 ## 🧩 Folder Structure
 core_python_projects/
@@ -48,7 +57,7 @@ I'm continuously expanding this repository by building:
 - 🤖 Full AI project pipelines
 - 🗃️ DSA-based Python utilities for optimization
 
-> 🌱 I'm committed to lifelong learning. This repository will grow as I evolve in my AI engineering path — one project at a time.
+> 🌱 I'm committed to lifelong learning. This will grow as I evolve in my AI engineering path — one project at a time.
 
 ---
 
