@@ -1,0 +1,25 @@
+Name: Nithish Kumar
+Email: nithish.kumar@example.com
+Phone: +91-9876543210
+
+Objective:
+To obtain a position as an AI Engineer where I can apply my knowledge of Python, NLP, and Machine Learning.
+
+Skills:
+- Python
+- Machine Learning
+- NLP
+- Data Structures
+- Flask
+
+Education:
+Bachelor of Engineering in Computer Science
+ABC University, 2021
+
+Experience:
+AI Intern at Tech Solutions (June 2023 - Dec 2023)
+Worked on a chatbot using Python and regex.
+
+Certifications:
+- Machine Learning by Stanford
+- Python for Data Science
