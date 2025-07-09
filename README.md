@@ -30,12 +30,12 @@ Welcome! This repository contains **hands-on Python projects** I've built as par
 
 ## 🧩 Folder Structure
 core_python_projects 
-├── csv_data_cleaner
-├── image_metadata_reader 
-├── keyword_entity_extractor
-├── keyword_entity_extractor
-├── resume_extractor
-└── README.md ← You are here
+csv_data_cleaner
+image_metadata_reader 
+keyword_entity_extractor
+keyword_entity_extractor
+resume_extractor
+README.md ← You are here
 
 ## 🔍 Why Only Core Python?
 

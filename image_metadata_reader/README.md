@@ -37,3 +37,7 @@ Image Classification
 AI-powered media tools
 
 This project introduces file I/O + image introspection with minimal setup — ideal for beginners in AI.
+
+🙋‍♂️ Author
+Nithish Kumar
+Documenting my journey to AI Engineering through hands-on Python projects.
