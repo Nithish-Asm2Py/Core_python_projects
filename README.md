@@ -15,7 +15,7 @@ Welcome! This repository contains **hands-on Python projects** I've built as par
 📄 Description: Extracts metadata such as file size, format, mode, and dimensions from image files.
 🧰 Modules Used: PIL.Image, os
 
-3. 🧠 Project Name: keyword_entity_extractor
+3. 🧠 Project Name: keyword_entity_extractor 
 📄 Description: Analyzes a text file to extract top keywords, possible names/organizations, and dates.
 🧰 Modules Used: re, string, collections.Counter, json
 
@@ -27,15 +27,6 @@ Welcome! This repository contains **hands-on Python projects** I've built as par
 📄 Description: Extracts name, email, phone number, key skills, and section headers from resume files.
 🧰 Modules Used: re
 
-
-## 🧩 Folder Structure
-core_python_projects 
-csv_data_cleaner
-image_metadata_reader 
-keyword_entity_extractor
-keyword_entity_extractor
-resume_extractor
-README.md ← You are here
 
 ## 🔍 Why Only Core Python?
 
