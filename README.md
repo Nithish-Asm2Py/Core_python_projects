@@ -27,6 +27,10 @@ Welcome! This repository contains **hands-on Python projects** I've built as par
 📄 Description: Extracts name, email, phone number, key skills, and section headers from resume files.
 🧰 Modules Used: re
 
+6. 📂 Project Name: log_level_separator
+📄 Description: Reads a log file line-by-line using a generator, parses log entries with regex, and separates them into files by log level (INFO, WARNING, ERROR, etc.) using multithreading.
+🧰 Modules Used: re, threading, time, built-in
+
 
 ## 🔍 Why Only Core Python?
 
